@@ -14,7 +14,6 @@
 
     fwrite(STDOUT, is_anagram($line[0],$line[1]));
 
-    var_dump('3');
 
 //readme
 /*
